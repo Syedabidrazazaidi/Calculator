@@ -1,0 +1,31 @@
+body{background-color:"" ;}
+#calculator{
+    width: 60vw;
+    height: 50vh;
+    border: 2px solid black;
+    margin: 100px;
+    background-color: black;
+}
+.textarea{
+    width: 95%;
+    height: 10vh;
+    background-color: black;
+color: white;
+font-size: 20px;
+border: none;
+}
+button{
+    width:14vw;
+    height: 7.5vh;
+    margin: 0;
+    border: none;
+ background-color: black;
+color: white;
+font-size: 20px;
+} 
+.operator{
+    background-color: orangered;
+}
+.upper-row{
+    background-color: grey;
+}
